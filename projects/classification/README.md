@@ -6,4 +6,4 @@ This project is a solution to a Pattern Classification question.
    ```sh
    git clone https://github.com/thaisaraujo2000/artificial_intelligence.git
    ```
-2. Import to [Google Colab](https://colab.research.google.com/) the file [classification](https://github.com/thaisaraujo2000/artificial_intelligence/tree/main/classification.ipynb)
+2. Import to [Google Colab](https://colab.research.google.com/) the file [classification](https://github.com/thaisaraujo2000/artificial_intelligence/blob/main/projects/classification/classification.ipynb)
